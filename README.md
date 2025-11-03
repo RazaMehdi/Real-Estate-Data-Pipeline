@@ -663,44 +663,24 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request
 
 Please ensure:
-- Code follows PEP 8 style guide
+
 - Tests are included for new functionality
 - Documentation is updated
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: 
+- Email: mrazam.010124@gmail.com
+- Email_for_tools : toolsaccess0101@outlook.com
 
 ---
 
-## 🙏 Acknowledgments
-
-- Dataset provided by [Source Name]
-- Inspiration from [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
-- Community support from [Snowflake Community](https://community.snowflake.com/)
-
----
-
-## 📚 Additional Resources
-
-- [AWS Lambda Best Practices](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
-- [Snowflake Documentation](https://docs.snowflake.com/)
-- [Elasticsearch Guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
-- [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
-
----
-
-**Last Updated**: January 2025
+**Last Updated**: Novemebr 2025
 
 **Project Status**: ✅ Production Ready
