@@ -1,0 +1,6 @@
+pandas==2.0.3
+snowflake-connector-python[pandas]==3.10.1
+elasticsearch==8.9.0
+python-slugify==8.0.1
+nameparser==1.1.2
+pyarrow>=10.0.0
